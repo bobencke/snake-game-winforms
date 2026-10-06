@@ -14,13 +14,13 @@ Snake game with a graphical interface in C# and Windows Forms, developed in 2025
 
 ## Getting started
 
-Requirements: Windows and the [.NET 8 SDK](https://dotnet.microsoft.com/download/dotnet/8.0).
+Requirements: Windows and Visual Studio with the **.NET desktop development** workload (the .NET Framework 4.7.2 targeting pack).
 
 ```bash
 git clone https://github.com/bobencke/snake-game-winforms.git
-cd snake-game-winforms
-dotnet run --project SnakeGame
 ```
+
+Open the `.sln` file in Visual Studio and press **F5** to run.
 
 ## Credits
 
@@ -30,4 +30,4 @@ The game logic and assets come from the [Programação Avançada snake game tuto
 
 - C#
 - Windows Forms
-- .NET 8
+- .NET Framework 4.7.2
