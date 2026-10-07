@@ -18,6 +18,7 @@ Requirements: Windows and Visual Studio with the **.NET desktop development** wo
 
 ```bash
 git clone https://github.com/bobencke/snake-game-winforms.git
+cd snake-game-winforms
 ```
 
 Open the `.sln` file in Visual Studio and press **F5** to run.
